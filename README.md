@@ -6,6 +6,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/krish-08-s/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krish-08-s/DSA-practice/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/krish-08-s/DSA-practice/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish-08-s/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -21,6 +22,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/krish-08-s/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/krish-08-s/DSA-practice/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/krish-08-s/DSA-practice/tree/master/0704-binary-search) |
 ## Sorting
