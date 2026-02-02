@@ -12,6 +12,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 | [0075-sort-colors](https://github.com/krish-08-s/DSA-practice/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krish-08-s/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish-08-s/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/krish-08-s/DSA-practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/krish-08-s/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish-08-s/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -34,9 +35,22 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/krish-08-s/DSA-practice/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish-08-s/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish-08-s/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
