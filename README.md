@@ -13,6 +13,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krish-08-s/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish-08-s/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/krish-08-s/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krish-08-s/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krish-08-s/DSA-practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/krish-08-s/DSA-practice/tree/master/0485-max-consecutive-ones) |
@@ -37,6 +38,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 | ------- |
 | [0075-sort-colors](https://github.com/krish-08-s/DSA-practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/krish-08-s/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish-08-s/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -58,4 +60,8 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/krish-08-s/DSA-practice/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/krish-08-s/DSA-practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
