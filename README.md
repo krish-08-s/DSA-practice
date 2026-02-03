@@ -39,6 +39,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 | [0075-sort-colors](https://github.com/krish-08-s/DSA-practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/krish-08-s/DSA-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/krish-08-s/DSA-practice/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish-08-s/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -64,4 +65,9 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/krish-08-s/DSA-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/krish-08-s/DSA-practice/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/krish-08-s/DSA-practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
