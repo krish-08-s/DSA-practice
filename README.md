@@ -20,6 +20,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 | [0485-max-consecutive-ones](https://github.com/krish-08-s/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish-08-s/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/krish-08-s/DSA-practice/tree/master/0704-binary-search) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/krish-08-s/DSA-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
