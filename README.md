@@ -37,6 +37,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 | [0035-search-insert-position](https://github.com/krish-08-s/DSA-practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krish-08-s/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/krish-08-s/DSA-practice/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/krish-08-s/DSA-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/krish-08-s/DSA-practice/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -75,4 +76,8 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/krish-08-s/DSA-practice/tree/master/0242-valid-anagram) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/krish-08-s/DSA-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
