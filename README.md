@@ -18,6 +18,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 | [0217-contains-duplicate](https://github.com/krish-08-s/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krish-08-s/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krish-08-s/DSA-practice/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/krish-08-s/DSA-practice/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish-08-s/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/krish-08-s/DSA-practice/tree/master/0704-binary-search) |
@@ -46,6 +47,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 | [0215-kth-largest-element-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/krish-08-s/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krish-08-s/DSA-practice/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish-08-s/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -72,6 +74,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 | ------- |
 | [0217-contains-duplicate](https://github.com/krish-08-s/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krish-08-s/DSA-practice/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
