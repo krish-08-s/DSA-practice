@@ -12,6 +12,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 | [0035-search-insert-position](https://github.com/krish-08-s/DSA-practice/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/krish-08-s/DSA-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krish-08-s/DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/krish-08-s/DSA-practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krish-08-s/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/krish-08-s/DSA-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish-08-s/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -89,4 +90,8 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/krish-08-s/DSA-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/krish-08-s/DSA-practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
