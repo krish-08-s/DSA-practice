@@ -6,6 +6,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krish-08-s/DSA-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krish-08-s/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krish-08-s/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krish-08-s/DSA-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -82,6 +83,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krish-08-s/DSA-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/krish-08-s/DSA-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krish-08-s/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krish-08-s/DSA-practice/tree/master/0242-valid-anagram) |
