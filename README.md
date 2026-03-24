@@ -16,6 +16,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krish-08-s/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/krish-08-s/DSA-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish-08-s/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/krish-08-s/DSA-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krish-08-s/DSA-practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/krish-08-s/DSA-practice/tree/master/0217-contains-duplicate) |
@@ -50,6 +51,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 | ------- |
 | [0075-sort-colors](https://github.com/krish-08-s/DSA-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krish-08-s/DSA-practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/krish-08-s/DSA-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/krish-08-s/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krish-08-s/DSA-practice/tree/master/0242-valid-anagram) |
@@ -63,6 +65,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krish-08-s/DSA-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -79,6 +82,7 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krish-08-s/DSA-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krish-08-s/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krish-08-s/DSA-practice/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/krish-08-s/DSA-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -94,4 +98,8 @@ DSA practice repository containing C++ solutions to LeetCode problems with clear
 |  |
 | ------- |
 | [0136-single-number](https://github.com/krish-08-s/DSA-practice/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krish-08-s/DSA-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
